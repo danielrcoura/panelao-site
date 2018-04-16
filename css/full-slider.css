@@ -17,3 +17,11 @@
 section {
   margin-top: 2rem;
 }
+
+body {
+  font-family: 'Roboto Slab';
+}
+
+h1 {
+  font-family: 'Exo';
+}
