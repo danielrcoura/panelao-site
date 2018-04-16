@@ -25,3 +25,11 @@ body {
 h1 {
   font-family: 'Exo';
 }
+
+/* Sections */
+
+#local iframe {
+  width: 40rem;
+  height: 30rem;
+  border: 0;
+}
