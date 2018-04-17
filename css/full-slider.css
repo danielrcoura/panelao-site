@@ -23,10 +23,9 @@ h1 {
 
 hr {
   border: 0;
-  height: 1.2rem;
+  height: 20px;
   width: 75%;
   background: url("../img/divider.png") 0 0;
-  background-attachment: fixed;
   background-position: center;
 }
 
