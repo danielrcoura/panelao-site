@@ -38,3 +38,7 @@ h1 {
 #local .col-lg-5 {
   padding-top: 4rem;
 }
+
+.content {
+  margin-top: 2rem;
+}
