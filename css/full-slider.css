@@ -39,6 +39,10 @@ hr {
   background-size: cover;
 }
 
+.nav-link.active {
+  border-bottom: 1px solid #fff;
+}
+
 /* Sections */
 
 #local iframe {
