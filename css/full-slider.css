@@ -29,7 +29,11 @@ h1 {
 /* Sections */
 
 #local iframe {
-  width: 40rem;
+  width: 100%;
   height: 30rem;
   border: 0;
+}
+
+#local .col-lg-5 {
+  padding-top: 4rem;
 }
