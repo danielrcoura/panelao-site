@@ -4,6 +4,23 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-slider/blob/master/LICENSE)
  */
 
+body {
+  font-family: 'Roboto Slab';
+}
+
+section {
+  margin-top: 2rem;
+}
+
+.ruby {
+  background-color: #8a0f1c;
+}
+
+h1 {
+  font-family: 'Exo';
+  padding-top: 1rem;
+}
+
 .carousel-item {
   height: 100vh;
   min-height: 300px;
@@ -12,19 +29,6 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
-
-section {
-  margin-top: 2rem;
-}
-
-body {
-  font-family: 'Roboto Slab';
-}
-
-h1 {
-  font-family: 'Exo';
-  padding-top: 1rem;
 }
 
 /* Sections */
