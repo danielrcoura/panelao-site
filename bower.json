@@ -1,0 +1,27 @@
+{
+  "name": "panelao-site",
+  "description": "Site do restaurante 'O Panelão'",
+  "main": "index.html",
+  "authors": [
+    "Daniel Rodrigues",
+    "Daniele Melo"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "restaurante",
+    "panelao"
+  ],
+  "homepage": "https://github.com/danielrcoura/panelao-site",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1"
+  }
+}
