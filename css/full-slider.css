@@ -10,8 +10,6 @@ body {
 
 section {
   margin-top: 2rem;
-  border-bottom: 1.5rem solid transparent;
-  border-image: url(../img/divider.png) 30 round;
 }
 
 .ruby {
