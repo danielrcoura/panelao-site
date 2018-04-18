@@ -59,6 +59,16 @@ hr {
   margin-top: 2rem;
 }
 
-.icon {
+#contact .row {
   margin-top: 1rem;
+  margin-left: 10%;
+}
+
+#contact p {
+  margin-top: 0.5rem;
+  margin-left: 0.5rem;
+}
+
+#contact img, p {
+  float: left;
 }
